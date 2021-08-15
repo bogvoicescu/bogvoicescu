@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bogvoicescu
-- 👨‍🎓 Information Technology Student
+- 👨‍🎓 Information Technology Student at Titu Maiorescu University of Bucharest
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Front-End projects 
