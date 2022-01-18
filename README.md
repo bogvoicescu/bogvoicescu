@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @voyce
+- 👋 Hi, I’m @bogvoicescu
 - 👨‍🎓 Information Technology Student at Titu Maiorescu University of Bucharest
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
